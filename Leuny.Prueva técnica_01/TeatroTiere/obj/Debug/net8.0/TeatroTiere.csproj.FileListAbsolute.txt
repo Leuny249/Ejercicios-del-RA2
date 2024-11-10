@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Leuny.Prueva técnica_01\TeatroTiere\obj\Debug\net8.0\TeatroTiere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Leuny.Prueva técnica_01\TeatroTiere\obj\Debug\net8.0\TeatroTiere.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Leuny.Prueva técnica_01\TeatroTiere\obj\Debug\net8.0\TeatroTiere.AssemblyInfo.cs
+C:\Users\User\Desktop\Leuny.Prueva técnica_01\TeatroTiere\obj\Debug\net8.0\TeatroTiere.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Leuny.Prueva técnica_01\TeatroTiere\bin\Debug\net8.0\TeatroTiere.exe
+C:\Users\User\Desktop\Leuny.Prueva técnica_01\TeatroTiere\bin\Debug\net8.0\TeatroTiere.deps.json
+C:\Users\User\Desktop\Leuny.Prueva técnica_01\TeatroTiere\bin\Debug\net8.0\TeatroTiere.runtimeconfig.json
+C:\Users\User\Desktop\Leuny.Prueva técnica_01\TeatroTiere\bin\Debug\net8.0\TeatroTiere.dll
+C:\Users\User\Desktop\Leuny.Prueva técnica_01\TeatroTiere\bin\Debug\net8.0\TeatroTiere.pdb
+C:\Users\User\Desktop\Leuny.Prueva técnica_01\TeatroTiere\obj\Debug\net8.0\TeatroTiere.dll
+C:\Users\User\Desktop\Leuny.Prueva técnica_01\TeatroTiere\obj\Debug\net8.0\refint\TeatroTiere.dll
+C:\Users\User\Desktop\Leuny.Prueva técnica_01\TeatroTiere\obj\Debug\net8.0\TeatroTiere.pdb
+C:\Users\User\Desktop\Leuny.Prueva técnica_01\TeatroTiere\obj\Debug\net8.0\TeatroTiere.genruntimeconfig.cache
+C:\Users\User\Desktop\Leuny.Prueva técnica_01\TeatroTiere\obj\Debug\net8.0\ref\TeatroTiere.dll
